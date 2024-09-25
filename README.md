@@ -1,10 +1,6 @@
 # Kolmogorov–Arnold Neural Network (KANN)
 
-This repository contains an implementation of a Kolmogorov–Arnold Neural Network (KANN) to approximate a target function using TensorFlow and NumPy. The target function for this example is:
-
-\[
-f(x, y) = \sin(x) \cdot \cos(y)
-\]
+This repository contains an implementation of a Kolmogorov–Arnold Neural Network (KANN) to approximate a target function using TensorFlow and NumPy. 
 
 The network is designed to learn and approximate this function over a grid of input values. The results are visualized with a 3D surface plot comparing the original function and the neural network's approximation.
 
