@@ -1,5 +1,9 @@
 # Kolmogorov–Arnold Neural Network (KANN)
 
+
+![kann](https://github.com/user-attachments/assets/902b7fa4-58c7-4f35-8f1a-d96a80c587d0)
+
+
 This repository contains an implementation of a Kolmogorov–Arnold Neural Network (KANN) to approximate a target function using TensorFlow and NumPy. 
 
 The network is designed to learn and approximate this function over a grid of input values. The results are visualized with a 3D surface plot comparing the original function and the neural network's approximation.
@@ -8,10 +12,7 @@ The network is designed to learn and approximate this function over a grid of in
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Training](#training)
-- [Visualization](#visualization)
-- [License](#license)
+
 
 ## Introduction
 
@@ -25,6 +26,8 @@ This specific example demonstrates the network's ability to approximate a simple
 - TensorFlow
 - NumPy
 - Matplotlib
+
+
 
 ## Installation
 
